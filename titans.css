@@ -1,0 +1,39 @@
+p, li {
+	font-family: 'Special Elite', cursive;
+	text-align: center;
+}
+
+li + p {
+	font-weight: bold;
+}
+
+body { 
+	background-image: url(https://cutewallpaper.org/21/attack-on-titan-landscape/Attack-On-Titan-HD-Wallpaper-Background-Image-2700x1080-.jpg);
+	background-size: inherit;
+}
+
+h1 { 
+	font-family: 'Merriweather Sans', sans-serif;
+	text-align: center;
+	font-size: 1000%;
+	margin: 20px 15px;
+	padding: 20px 15px;
+
+ }
+
+.membernow {
+ 	font-family: 'Merriweather Sans', sans-serif;
+ 	font-size: 20px;
+ 	text-align: center;
+ }
+
+li > strong {
+	border: 5px solid black;
+	text-align: center;
+	display: inline-block;
+	font-size: 2rem;
+	padding: 15px 20px;
+	margin: 10px 20px;
+	background-color: white;
+}
+
